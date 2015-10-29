@@ -1,0 +1,3 @@
+# `prandom`
+
+Pseudo random generator.
